@@ -15,5 +15,5 @@ which takes one parameter, a string which represents a one or more sentences, an
 #### 4. def writeInDataFile(resultingDataFile):
 which takes one parameter, a string which represents all data in project_twitter_data.csv, and write a csv file called resulting_data.csv, which contains the Number of Retweets, Number of Replies, Positive Score (which is how many happy words are in the tweet), Negative Score (which is how many angry words are in the tweet), and the Net Score (how positive or negative the text is overall) for each tweet. The file have its headers in that order.
 ## Scatterplot
-<img src="/images/ScatterplotTwitterData.png" alt="ScatterplotTwitterData" width="400"/>
+<img src="/images/ScatterplotTwitterData.PNG" alt="ScatterplotTwitterData" width="400"/>
 
